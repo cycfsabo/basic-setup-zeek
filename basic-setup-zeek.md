@@ -35,7 +35,7 @@ Sau đó sửa dòng 11 (eth0 thành interface trên máy).
 
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/41882267/91049020-bbbc4b00-e646-11ea-91ee-b3c335c33d01.png">
 
-- Mở lại ZeekControl shell và start, nếu như sau thì là thành công:
+- Mở lại ZeekControl shell, nếu start và stop không báo lỗi:
 
 <img width="261" alt="image" src="https://user-images.githubusercontent.com/41882267/91048635-20c37100-e646-11ea-89d8-9988f6f9ca29.png">
 
