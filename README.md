@@ -18,6 +18,8 @@ export PATH=/usr/local/zeek/bin:$PATH
 ```
 zeekctl
 ```
+<img width="285" alt="image" src="https://user-images.githubusercontent.com/41882267/91052326-8108e180-e64b-11ea-96f4-dfeb10d11ac9.png">
+
 - Đối với lần đầu tiên sử dụng shell, thực hiện cấu hình ZeekControl bằng lệnh:
 ```
 [ZeekControl] > install
