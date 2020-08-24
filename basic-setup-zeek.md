@@ -32,7 +32,8 @@ start
 nano -c /usr/local/zeek/etc/node.cfg
 ```
 Sau đó sửa dòng 11 (eth0 thành interface trên máy).
-<img width="757" alt="image" src="https://user-images.githubusercontent.com/41882267/91047898-02a94100-e645-11ea-87df-8cf9bad2472f.png">
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/41882267/91048635-20c37100-e646-11ea-89d8-9988f6f9ca29.png">
+
 
 - Mở lại ZeekControl shell và start, nếu như sau thì là thành công:
 
