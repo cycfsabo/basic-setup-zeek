@@ -8,9 +8,16 @@ apt install git
 ```
 bash zeek_install.sh
 ```
-- Sau khi cài đặt hoàn tất, thiết lập biến môi trường bằng lệnh:
+- Sau khi cài đặt hoàn tất, sửa biến PATH bằng lệnh:
 ```
-export PATH=/usr/local/zeek/bin:$PATH
+nano /etc/environment
+```
+Thêm vào PATH đoạn "/usr/local/zeek/bin:"
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/41882267/91059838-69822680-e654-11ea-91c8-1b0acfd71453.png">
+
+- Để ấn định thay đổi, sử dụng lệnh:
+```
+source /etc/environment
 ```
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/41882267/91052264-69c9f400-e64b-11ea-9931-fbff63a1981a.png">
 
