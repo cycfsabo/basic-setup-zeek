@@ -4,7 +4,7 @@
 ```
 apt install git
 ```
-- Tải về file zeek_install.sh. Để tải về source code mới nhất cũng như cài đặt zeek, sử dụng lệnh:
+- Tải về file zeek_install.sh. Để tải về source code mới nhất và cài đặt zeek, sử dụng lệnh:
 ```
 bash zeek_install.sh
 ```
