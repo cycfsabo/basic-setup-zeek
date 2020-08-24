@@ -1,10 +1,10 @@
-# Cài đặt cơ bản zeek
+# Cài đặt cơ bản Zeek
 - Chuyển qua user root.
 - Cài đặt git trên máy bằng lệnh:
 ```
 apt install git
 ```
-- Tải về file zeek_install.sh. Để tải về source code mới nhất và cài đặt zeek, sử dụng lệnh:
+- Tải về file zeek_install.sh. Để tải về source code mới nhất và cài đặt Zeek, sử dụng lệnh:
 ```
 bash zeek_install.sh
 ```
