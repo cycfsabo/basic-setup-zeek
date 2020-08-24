@@ -1,4 +1,4 @@
-# Cài đặt cơ bản zeek.
+# Cài đặt cơ bản zeek
 - Chuyển qua user root.
 - Cài đặt git trên máy bằng lệnh:
 ```
