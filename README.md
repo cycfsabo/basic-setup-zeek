@@ -1,4 +1,6 @@
 # Cài đặt cơ bản Zeek
+*Lưu ý: Mặc định code hoạt động trên Ubuntu hoặc DEB/Debian-based Linux. Trong file zeek_install.sh có sẵn lệnh cài các required dependencies cho RPM/RedHat-based Linux hoặc FreeBSD, có thể sửa lại bằng cách comment hoặc bỏ comment*
+
 - Chuyển qua user root.
 - Cài đặt git trên máy bằng lệnh:
 ```
