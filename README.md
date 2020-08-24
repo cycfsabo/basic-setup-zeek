@@ -13,6 +13,7 @@ bash zeek_install.sh
 nano /etc/environment
 ```
 Thêm vào PATH đoạn "/usr/local/zeek/bin:"
+
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/41882267/91059838-69822680-e654-11ea-91c8-1b0acfd71453.png">
 
 - Để ấn định thay đổi, sử dụng lệnh:
@@ -35,7 +36,6 @@ zeekctl
 ```
 start
 ```
-
 - Lưu ý sửa lỗi "Error: zeek terminated immediately after starting; check output with "diag"" khi start bằng cách sử dụng lệnh:
 ```
 nano -c /usr/local/zeek/etc/node.cfg
