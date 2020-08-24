@@ -19,8 +19,6 @@ Thêm vào PATH đoạn "/usr/local/zeek/bin:"
 ```
 source /etc/environment
 ```
-<img width="466" alt="image" src="https://user-images.githubusercontent.com/41882267/91052264-69c9f400-e64b-11ea-9931-fbff63a1981a.png">
-
 - Mở ZeekControl shell bằng lệnh:
 ```
 zeekctl
